@@ -1,7 +1,7 @@
 jesus
 =====
 
-The son of god lets you know when you get unfollower on Twitter.
+The son of god lets you know when you get unfollowed on Twitter.
 
 ## Installation
 
