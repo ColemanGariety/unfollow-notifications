@@ -1,0 +1,6 @@
+{
+  "name": "jesus",
+  "dependencies": {
+    "twit": "~1.1.11"
+  }
+}
