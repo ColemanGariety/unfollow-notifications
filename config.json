@@ -1,6 +1,9 @@
 {
-    "consumer_key":         ""
-  , "consumer_secret":      ""
-  , "access_token":         ""
-  , "access_token_secret":  ""
+    "handle":                   "JacksonGariety"
+  , "twitter_keys": {
+        "consumer_key":         "khZ68Y4i9fsTRfFYT0hA"
+      , "consumer_secret":      "9Cjhy2L615Mb93fcWK23D7O6k1eGNY7zwfq2WAs8vA"
+      , "access_token":         "248558843-mTXrLQKCP6MHwF3TYkx5470VsOOuTXcECVfPi6KM"
+      , "access_token_secret":  "4QLOmKtjie6AcTY6MUNslhJdRTKIHyxuEJytvrLP9DPgl"
+    }
 }

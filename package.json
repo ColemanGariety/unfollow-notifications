@@ -1,6 +1,7 @@
 {
   "name": "jesus",
   "dependencies": {
-    "twit": "~1.1.11"
+    "twit": "~1.1.11",
+    "bluebird": "~0.8.0-0"
   }
 }
