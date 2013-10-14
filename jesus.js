@@ -4,7 +4,6 @@
   
   // Classes
   var Twitter = require('twit')
-    , Promise = require("bluebird")
   
   // Instances
   var twitter = new Twitter(config.twitter_keys)
