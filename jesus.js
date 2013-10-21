@@ -74,5 +74,5 @@
   }
   
   // Start
-  setInterval(poll(), 30000)  
+  setInterval(poll(), 120000)  
 }()
